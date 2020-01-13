@@ -1,2 +1,5 @@
-# Code 201 Reading Notes
-**All Reading Notes Will Be Store Here
+# Code 201 Reading Notes #
+## All Reading Notes Will Be Store Here ##
+
+Table of Contents
+
