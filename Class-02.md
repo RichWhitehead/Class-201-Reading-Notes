@@ -8,10 +8,10 @@
 
 #### Introducing CSS ####
 
-* CSS stands for Cascading Style Sheets
+* CSS stands for <b>C</b>ascading <b>S</b>tyle <b>S</b>heets
 
 * CSS describes how HTML elements are to be displayed
 
-* A CSS rule consists of a <b>selector</b> and a <b>declaration block</b>.
+* A CSS rule consists of a <b>selector</b> and a <b>declaration</b>block.
 
   ![Alt text](https://www.w3schools.com/whatis/img_selector.gif "Image from W3Schools")
