@@ -12,6 +12,6 @@
 
 * CSS describes how HTML elements are to be displayed
 
-* A CSS rule consists of a selector and a declaration block.
+* A CSS rule consists of a <b>selector</b> and a <b>declaration block</b>.
 
   ![Alt text](https://www.w3schools.com/whatis/img_selector.gif "Image from W3Schools")
