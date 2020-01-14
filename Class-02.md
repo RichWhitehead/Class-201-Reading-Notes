@@ -26,7 +26,7 @@
   
   * <u>Data Types of JavaScript</u>
   
-1. Strings</ol> - "some text"
-        <ol>2. Numbers</ol> - numbers ex. 1, 27, 300
-        <ol>3. Booteans</ol> - true/false
-        <ol>4. Varible</ol> - a place to store code for in memory for later use
+1. Strings - "some text"
+2. Numbers - numbers ex. 1, 27, 300
+3. Bootean - true/false
+4. Varible - a place to store code for in memory for later use
