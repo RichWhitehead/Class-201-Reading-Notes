@@ -1,12 +1,12 @@
 # Read 02 #
 ## HTML Text, CSS Introduction, and Basic JavaScript ##
 
-### Markup HTML ###
+## Markup HTML ##
 
 * Structural markup - are elements you can use to describe both headings and paragraphs. 
 * Semantic markup - provides extrat information placing emphasis in a sentence etc. 
 
-#### Introducing CSS ####
+## Introducing CSS ##
 
 * CSS stands for <b>C</b>ascading <b>S</b>tyle <b>S</b>heets
 
@@ -20,7 +20,7 @@
   
   * CSS rule of thumb is that it appears in a seperate document but can appear within an HTML page.
   
-  ##### Basic JavaScript Instructions #####
+  ## Basic JavaScript Instructions ##
   
 * JavaScript is most commonly used as a client side scripting language. This means that JavaScript code is written into an HTML page. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do something with it.
   
