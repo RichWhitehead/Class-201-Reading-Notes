@@ -24,7 +24,7 @@
   
 * JavaScript is most commonly used as a client side scripting language. This means that JavaScript code is written into an HTML page. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do something with it.
   
-* <u>Data Types of JavaScript</u>
+ ## <u>Data Types of JavaScript</u> ##
   
 1. Strings - "some text"
 2. Numbers - numbers ex. 1, 27, 300
