@@ -14,4 +14,4 @@
 
 * A CSS rule consists of a selector and a declaration block.
 
-  ![Alt text](https://www.w3schools.com/whatis/img_selector.gif)
+  ![Alt text](https://www.w3schools.com/whatis/img_selector.gif "Image from W3Schools")
