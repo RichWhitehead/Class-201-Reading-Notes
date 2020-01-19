@@ -3,23 +3,22 @@
 
 ## HTML List ##
 
+* Ordered list are list that require numbers
+
     <h1>Example of Ordered List</h1>
-    
-            <ol>
+            <ol>Ordered List</ol>
                 <li>Crawl</li>
                 <li>Walk</li>
                 <li>Run</li>
-            </ol>
 
 * Unordered list are list that begin with a bullet point rather that characters that indicate a specific order.
    
-    <h2>Example of Unordered List</h2>
-
-         <ul>
+    <h2>
+    <ul>Unordered List</ul>
             <li>Crawl</li>
             <li>Walk</li>
             <li>Run</li>
-         </ul>
+    </h2>
 
 * Definition list consist of a series of terms and and their definitions.
 
