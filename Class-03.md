@@ -6,19 +6,21 @@
 * Ordered list are list that require numbers
 
     <h1>Example of Ordered List</h1>
-            <ol>Ordered List</ol>
+            <ol>
                 <li>Crawl</li>
                 <li>Walk</li>
                 <li>Run</li>
+            </ol>
 
 * Unordered list are list that begin with a bullet point rather that characters that indicate a specific order.
    
-    <h2>
-    <ul>Unordered List</ul>
+    <h2>Unordered List</h2>
+        <ul>
             <li>Crawl</li>
             <li>Walk</li>
             <li>Run</li>
-    </h2>
+        </ul>
+    
 
 * Definition list consist of a series of terms and and their definitions.
 
