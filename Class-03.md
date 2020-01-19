@@ -13,10 +13,12 @@
 
 * Unordered list are list that begin with a bullet point rather that characters that indicate a specific order.
    
-    <h2><b>Unordered List</b></h2>
+    <h2>
+    <ul>Unordered List</ul>
             <li>Crawl</li>
             <li>Walk</li>
             <li>Run</li>
+    </h2>
 
 * Definition list consist of a series of terms and and their definitions.
 
