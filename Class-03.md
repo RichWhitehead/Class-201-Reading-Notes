@@ -3,9 +3,8 @@
 
 ## HTML List ##
 
-* Ordered list are list that require numbers
-
     <h1>Example of Ordered List</h1>
+    
             <ol>
                 <li>Crawl</li>
                 <li>Walk</li>
@@ -15,6 +14,7 @@
 * Unordered list are list that begin with a bullet point rather that characters that indicate a specific order.
    
     <h2>Example of Unordered List</h2>
+
          <ul>
             <li>Crawl</li>
             <li>Walk</li>
