@@ -3,16 +3,18 @@
 
 Forms are used to gather information from the user.
 
-	Form structure includes the element <form>. This element requires an action attribute 		and its value is the URL.
+	Form structure includes the element <form>. This element requires an action attribute and its value is the URL.
 
 	Forms can be sent using one of two methods: “get” or “post”.
-“get” is used for short forms or when you just retrieving data from the web 	          server.
 
-“post” is used when the values are sent to HTTP headers. If your form has the following you might want to use the “post” method form
-1.	 Allows users to upload a file.
-2.	Is very long.
-3.	Contains sensitive data.
-4.	Adds information to and also deletes information from a database.
+    “get” is used for short forms or when you just retrieving data from the web server.
+
+    “post” is used when the values are sent to HTTP headers. If your form has the following you might want to use the “post” method form.
+
+        1.	Allows users to upload a file.
+        2.	Is very long.
+        3.	Contains sensitive data.
+        4.	Adds information to and also deletes information from a database.
 
 Text Input is used to create several different forms control the element <input> is used.
 
